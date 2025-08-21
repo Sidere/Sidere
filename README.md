@@ -3,9 +3,9 @@
 ### Olá, Poliana Sidere aqui 💻
 
 
-- ⚙️ Trabalho com hardware, manutenção, montagem, diagnóstico e reparo. 
-- 🌱 Estudando JavaScript
-- 📚 Programo em C, Java e JavaScript.
+- ⚙️ Desenvolvedore Front-End. 
+- 🌱 Estudando React Native e Typescript
+- 📚 Atuando em um projeto Mobile - Aqui Na Feira.
 - 🧑‍💻 Pessoa Não Binário (ela\dela\elu\delu)
 <br><br/> 
 
